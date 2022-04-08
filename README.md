@@ -1,5 +1,5 @@
 # NBA
-Analyzing NBA stats.
+NBA stats' Exploratory Data Analysis  .
 
 As almost every kid borned in Bahía Blanca, the Argentinian basketball capital but most frequently known as Manu Ginobili´s birthplace, we grew up idolizing NBA and its players, analyzing every aspect of the game. Stats are a key aspect of basketball: advanced analytics properly managed can make a huge differential during a game.
 
